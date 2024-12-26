@@ -1,0 +1,49 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 435 50'
+    style='background-color: #00000000;' width='435px' height='50px'>
+
+    <style>
+        @font-face {
+            font-family: 'Ubuntu';
+            font-style: normal;
+            font-weight: 400;
+            font-display: fallback;
+            src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoC1CzjvWyNL4U.woff2) format('woff2');
+        }
+    </style>
+
+    <path id='path0'>
+        <animate id='d0' attributeName='d' begin='0s;d3.end' dur='4000ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
+    </path>
+    <text font-family='"Ubuntu", monospace' fill='#00E853' font-size='20' dominant-baseline='auto' x='0%'
+        text-anchor='start' letter-spacing='normal'>
+        <textPath xlink:href='#path0'>
+            Wake up, Neo...
+        </textPath>
+    </text>
+    <path id='path1'>
+        <animate id='d1' attributeName='d' begin='d0.end' dur='4000ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
+    </path>
+    <text font-family='"Ubuntu", monospace' fill='#00E853' font-size='20' dominant-baseline='auto' x='0%'
+        text-anchor='start' letter-spacing='normal'>
+        <textPath xlink:href='#path1'>
+            The Matrix has you...
+        </textPath>
+    </text>
+    <path id='path2'>
+        <animate id='d2' attributeName='d' begin='d1.end' dur='4000ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
+    </path>
+    <text font-family='"Ubuntu", monospace' fill='#00E853' font-size='20' dominant-baseline='auto' x='0%'
+        text-anchor='start' letter-spacing='normal'>
+        <textPath xlink:href='#path2'>
+            Follow the white rabbit...
+        </textPath>
+    </text>
+    <path id='path3'>
+        <animate id='d3' attributeName='d' begin='d2.end' dur='4000ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
+    </path>
+</svg>
